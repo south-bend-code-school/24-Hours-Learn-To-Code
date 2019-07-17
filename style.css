@@ -1,6 +1,11 @@
 body {
   background-color: #F7F7F7;
 }
+
+.space{
+  width:100%;
+  height: 8vh;
+}
 .startButton {
   display: inline-block;
   text-align: center;
