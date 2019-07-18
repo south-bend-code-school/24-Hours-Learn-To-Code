@@ -41,6 +41,20 @@ body {
   color: black !important;
 }
 
+.form-holder{
+  margin: auto;
+  width: 500px;
+}
+
+.form-frame{
+  border: none;
+  margin: auto;
+}
+
+.get-info-form{
+  background-color: #fafafa;
+}
+
 /* =================================================================================================================================Turn all links to black text ==============================================*/
 /*a:link {
   color: black;
